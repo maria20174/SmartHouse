@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <?xml version="1.0" encoding="utf-8"?>
+
+        <array name="preloaded_fonts" translatable="false">
+            <item>@font/montserat</item>
+            <item>@font/montserat_bold</item>
+            <item>@font/montserat_light</item>
+            <item>@font/montserat_medium</item>
+            <item>@font/montserat_thin</item>
+        </array>
+
+</resources>
